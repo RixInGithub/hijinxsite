@@ -1,6 +1,5 @@
 # cat /etc/os-release
 # uname -a
-apt update
-apt install -y gcc
+gcc -v
 # npm i
 node main.js
